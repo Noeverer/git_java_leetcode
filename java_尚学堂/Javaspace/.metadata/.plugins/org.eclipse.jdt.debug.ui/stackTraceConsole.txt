@@ -1,9 +1,0 @@
-
-RobotLiu@Robotliu MINGW64 /f/Git (master)
-$ git clone https://github.com/YunYang1994/tensorflow-yolov3.git
-Cloning into 'tensorflow-yolov3'...
-remote: Enumerating objects: 1412, done.
-Receiving objects:  25% (360/1412), 3.90 MiB | 12.00 KiB/s
-exitReceiving objects:  25% (360/1412), 3.95 MiB | 9.00 KiB/s
-)Receiving objects:  25% (360/1412), 4.00 MiB | 10.00 KiB/s
-Receiving objects:  30% (434/1412), 4.14 MiB | 13.00 KiB/s
