@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="SXT_java.A434_Object_Student"/>
+    <fullyQualifiedTypeName name="java.lang.Void"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyAdapter"/>
+    <fullyQualifiedTypeName name="java.awt.event.KeyEvent"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.classfile.Constant"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="BallGame.BallGame"/>
+    <fullyQualifiedTypeName name="java.awt.Paint"/>
+    <fullyQualifiedTypeName name="java.awt.image.ImageObserver"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="BallGame2"/>
+    <fullyQualifiedTypeName name="sun.rmi.server.UnicastServerRef2"/>
+    <fullyQualifiedTypeName name="jdk.nashorn.internal.runtime.UserAccessorProperty"/>
+    <fullyQualifiedTypeName name="p4.User4"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.launcher.Main"/>
+    <fullyQualifiedTypeName name="p5.extends_p5_1.Person"/>
+    <fullyQualifiedTypeName name="p5.extends_p5_1.Person.Student"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="sun.tools.tree.ThisExpression"/>
+    <fullyQualifiedTypeName name="org.graalvm.compiler.hotspot.stubs.StubUtil"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.NEW"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.INSTANCEOF"/>
+    <fullyQualifiedTypeName name="p5.Person"/>
+    <fullyQualifiedTypeName name="p5.Student"/>
+    <fullyQualifiedTypeName name="p5.p5_1"/>
+    <fullyQualifiedTypeName name="p5.extends_p5_1"/>
+    <fullyQualifiedTypeName name="java.security.acl.Permission"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.sun.tools.sjavac.comp.dependencies.PublicApiCollector"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowAdapter"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="java.awt.event.WindowEvent"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.awt.Graphics"/>
+    <fullyQualifiedTypeName name="java.awt.Image"/>
+    <fullyQualifiedTypeName name="java.awt.Toolkit"/>
+    <fullyQualifiedTypeName name="p13_Game01.MygameFrame2"/>
+    <fullyQualifiedTypeName name="p13_Game01.MyGameFrame"/>
+    <fullyQualifiedTypeName name="java.awt.Frame"/>
+</qualifiedTypeNameHistroy>
