@@ -2229,7 +2229,7 @@
   <commands xmi:id="_eEQcuWdHEeqtiINonkyHLw" elementId="org.eclipse.egit.ui.history.Revert" commandName="Revert Commit" category="_eEH5hmdHEeqtiINonkyHLw"/>
   <commands xmi:id="_eEQcumdHEeqtiINonkyHLw" elementId="org.eclipse.ui.edit.text.scroll.lineDown" commandName="Scroll Line Down" description="Scroll down one line of text" category="_eEHSaWdHEeqtiINonkyHLw"/>
   <commands xmi:id="_eEQcu2dHEeqtiINonkyHLw" elementId="org.eclipse.wst.sse.ui.search.find.occurrences" commandName="Occurrences in File" description="Find occurrences of the selection in the file" category="_eEHSYmdHEeqtiINonkyHLw"/>
-  <commands xmi:id="_eEQcvGdHEeqtiINonkyHLw" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle Main Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_eEH5d2dHEeqtiINonkyHLw"/>
+  <commands xmi:id="_eEQcvGdHEeqtiINonkyHLw" elementId="org.eclipse.ui.ToggleCoolbarAction" commandName="Toggle qiuzhao.Main Toolbar Visibility" description="Toggles the visibility of the window toolbar" category="_eEH5d2dHEeqtiINonkyHLw"/>
   <commands xmi:id="_eEQcvWdHEeqtiINonkyHLw" elementId="org.eclipse.egit.ui.RepositoriesViewImportProjects" commandName="Import Projects..." description="Import or create in local Git repository" category="_eEH5f2dHEeqtiINonkyHLw"/>
   <commands xmi:id="_eEQcvmdHEeqtiINonkyHLw" elementId="org.eclipse.wst.sse.ui.outline.customFilter" commandName="&amp;Filters" category="_eEH5hmdHEeqtiINonkyHLw"/>
   <commands xmi:id="_eEQcv2dHEeqtiINonkyHLw" elementId="org.eclipse.ui.navigate.openResource" commandName="Open Resource" description="Open an editor on a particular resource" category="_eEH5cWdHEeqtiINonkyHLw">
