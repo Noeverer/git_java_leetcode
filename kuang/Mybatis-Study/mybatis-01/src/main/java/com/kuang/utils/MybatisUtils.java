@@ -25,7 +25,6 @@ public class MybatisUtils {
     public static SqlSession getSqlSession(){
         //从工厂样例中获取sqlSession的实例
         return sqlSessionFactory.openSession();
-
     }
 
 
